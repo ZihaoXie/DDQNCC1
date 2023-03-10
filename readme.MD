@@ -32,4 +32,9 @@ There are some bugs in DQNAgent.py in the source code, I made some modifications
 
 python train.py
 ```
+## References:
+```
+https://github.com/john-cardiff/cyborg-cage
+https://github.com/mprhode/cyborg-submission-CUABv2
+```
 
