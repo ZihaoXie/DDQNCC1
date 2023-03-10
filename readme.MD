@@ -22,6 +22,8 @@ python train.py
 
 
 # RNNDQN agent
+There are some small bugs in DQNAgent.py in the source code, I made some modifications.
+
 # cd \CybORG\CybORG\cyborg-RDQN
 
 python train.py
