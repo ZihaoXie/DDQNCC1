@@ -12,18 +12,21 @@ Install CybORG locally using pip
 # from the cage-challenge-1/CybORG directory
 pip install -e .
 ```
-## Train The agent(DDQN/RNNDQN)
+## Train DDQN Agent
 
 ```
-#DDQN agent 
+#DDQN Agent
+
 # cd \CybORG\CybORG\cyborg-DQN
 
 python train.py
+```
 
-
-# RNNDQN agent
-
+## Train RNNDQN Agent
+```
 There are some bugs in DQNAgent.py in the source code, I made some modifications.
+
+#RNNDDQN Agent
 
 # cd \CybORG\CybORG\cyborg-RDQN
 
