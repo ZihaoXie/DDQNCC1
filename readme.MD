@@ -16,13 +16,13 @@ pip install -e .
 
 ```
 #DDQN agent 
-# from \CybORG\CybORG\cyborg-DQN
+# cd \CybORG\CybORG\cyborg-DQN
 
 python train.py
 
 
 # RNNDQN agent
-# from \CybORG\CybORG\cyborg-RDQN
+# cd \CybORG\CybORG\cyborg-RDQN
 
 python train.py
 ```
