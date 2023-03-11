@@ -9,7 +9,7 @@ A cyber security research environment for training and development of security h
 Install CybORG locally using pip
 
 ```
-# from the cage-challenge-1/CybORG directory
+# from the /CybORG (Which directory has Requirements.txt)
 pip install -e .
 ```
 ## Train DDQN Agent
