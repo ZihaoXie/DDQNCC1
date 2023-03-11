@@ -52,4 +52,4 @@ https://github.com/mprhode/cyborg-submission-CUABv2
 ```
 ## TODO
 
-Add Prioritized Experience Replay into DuelingDDQN and RNNDDQN
+Add Prioritized Experience Replay(PER) into DuelingDDQN and RNNDDQN
