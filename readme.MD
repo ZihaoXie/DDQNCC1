@@ -23,18 +23,24 @@ python train.py
 ```
 
 ## Train RNNDQN Agent
-```
-There are some bugs in DQNAgent.py in the source code, I made some modifications.
 
-#RNNDDQN Agent
+There are some bugs in **DQNAgent.py** in the source code, I made some modifications.
+
+```
+# RNNDDQN Agent
 
 # cd \CybORG\CybORG\cyborg-RDQN
 
 python train.py
 ```
 ## Train DuelingDDQN Agent
+
+I added the function of dueling network on the basis of DDQN, the main modification part is in **DeepQNetwork.py**
 ```
+# DuelingDDQN Agent
+
 cd \CybORG\CybORG\cyborg-DuelingDDQN
+
 python train.py
 ```
 
