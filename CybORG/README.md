@@ -9,7 +9,7 @@ A cyber security research environment for training and development of security h
 Install CybORG locally using pip
 
 ```
-# from the /CybORG directory has Requirements.txt
+# from the /CybORG (which directory has Requirements.txt)
 pip install -e .
 ```
 ## Train The agent(DDQN/RNNDQN)
