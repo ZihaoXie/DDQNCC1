@@ -50,6 +50,4 @@ python train.py
 https://github.com/john-cardiff/cyborg-cage
 https://github.com/mprhode/cyborg-submission-CUABv2
 ```
-## TODO
 
-Add Prioritized Experience Replay(PER) into DuelingDDQN and RNNDDQN
